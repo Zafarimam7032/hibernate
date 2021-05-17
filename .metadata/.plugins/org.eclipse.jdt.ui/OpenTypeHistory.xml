@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=Firsthibernate/C:\/Users\/91844\/.m2\/repository\/org\/hibernate\/hibernate-core\/5.4.13.Final\/hibernate-core-5.4.13.Final.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.hibernate=/=/maven.artifactId=/hibernate-core=/=/maven.version=/5.4.13.Final=/=/maven.scope=/compile=/&lt;org.hibernate.engine.jdbc.env.spi(JdbcEnvironment.class[JdbcEnvironment" modifiers="1537" timestamp="1611584716750"/>
+    <typeInfo handle="=Firsthibernate/C:\/Users\/91844\/.m2\/repository\/org\/hibernate\/hibernate-core\/5.4.13.Final\/hibernate-core-5.4.13.Final.jar=/maven.pomderived=/true=/=/maven.pomderived=/true=/=/maven.groupId=/org.hibernate=/=/maven.artifactId=/hibernate-core=/=/maven.version=/5.4.13.Final=/=/maven.scope=/compile=/&lt;org.hibernate.dialect(MySQL55Dialect.class[MySQL55Dialect" modifiers="33" timestamp="1611584716750"/>
+</typeInfoHistroy>

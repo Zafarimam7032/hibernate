@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.zafar.pojo">
+	<class name="EmplyeeVO" table="EmplyeeXmlZ">
+		<id name="empid" length="10" column="Emplyee_id" />
+		<property name="epmName" length="30" column="Emplyee_Name" />
+		<property name="deparment" length="30"
+			column="Epleyee_Deparment" />
+		<property name="adddress" length="30"
+			column="Emplyee_Address" />
+		<property name="salry" length="30" column="EmplYee_salry" />
+	</class>
+</hibernate-mapping>

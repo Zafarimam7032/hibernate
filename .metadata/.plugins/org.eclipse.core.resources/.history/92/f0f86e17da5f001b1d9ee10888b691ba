@@ -1,0 +1,17 @@
+package com.zafar.ImageUsingHibernate;
+
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Image Program :" );
+        Configuration configuration=new Configuration();
+        configuration.configure("server.cfg.xml");
+        SessionFactory factory=configuration.buildSessionFactory();
+        System.out.println(factory);
+        
+    }
+}

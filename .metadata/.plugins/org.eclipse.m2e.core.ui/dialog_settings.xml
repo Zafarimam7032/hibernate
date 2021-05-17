@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\GreatWits Hibernate\Firsthibernate"/>
+			<item value="D:\GreatWits Hibernate\HibernateGetAndLoad"/>
+			<item value="D:\GreatWits Hibernate\HibernateGetAndLoad\src\main\java\com\zafar\HibernateGetAndLoad\App.java"/>
+			<item value="D:\GreatWits Hibernate\Firsthibernate\src\main\java\com\zafar\Firsthibernate\App.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.zafar.Demo"/>
+			<item value="com.zafar.AllDataBasesOperation"/>
+			<item value="com.zafar.CritteriaApi"/>
+			<item value="com.zafar.XmlBasedCreateTable"/>
+			<item value="com.zafar.CachedInHibernate"/>
+			<item value="com.zafar.HQL"/>
+			<item value="com.zafar.EgarAndLazy"/>
+			<item value="com.zafar.MapingTechnique"/>
+			<item value="com.zafar.UpdateAndDeleteInformation"/>
+			<item value="com.zafar.EmbdedTable"/>
+			<item value="com.zafar.FetAndLoadSelect"/>
+		</list>
+		<list key="groupId">
+			<item value="com.zafar"/>
+		</list>
+		<list key="artifactId">
+			<item value="Demo"/>
+			<item value="AllDataBasesOperation"/>
+			<item value="CritteriaApi"/>
+			<item value="XmlBasedCreateTable"/>
+			<item value="CachedInHibernate"/>
+			<item value="HQL"/>
+			<item value="EgarAndLazy"/>
+			<item value="MapingTechnique"/>
+			<item value="UpdateAndDeleteInformation"/>
+			<item value="EmbdedTable"/>
+			<item value="FetAndLoadSelect"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

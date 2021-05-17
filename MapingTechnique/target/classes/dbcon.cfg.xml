@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+	"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+	"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+	<session-factory>
+		<property name="connection.driver.class">com.mysql.cj.jdbc.Driver</property>
+		<property name="connection.url">jdbc:mysql://103.50.160.116:3306/greattug_gw_pratice_CD</property>
+		<property name="connection.username">greattug_pratice</property>
+		<property name="connection.password">Test1234##</property>
+		<property name="dialect">org.hibernate.dialect.MySQL55Dialect</property>
+		<property name="hbm2ddl.auto">update</property>
+		<!-- <property name="show_sql">true</property>  -->
+		<mapping class="com.zafar.one.to.one.StudentVo" />
+		<mapping class="com.zafar.one.to.one.College" />
+		<mapping class="com.zafar.many.to.one.and.vr.Answer" />
+		<mapping class="com.zafar.many.to.one.and.vr.Question" />
+		<mapping class="com.zafar.many.to.many.Village"/>
+		<mapping class="com.zafar.many.to.many.City"/>
+
+
+	</session-factory>
+</hibernate-configuration>
